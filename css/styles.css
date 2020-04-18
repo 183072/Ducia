@@ -30,6 +30,7 @@ nav {
     height: 300px;
     background-color: hsla(345,73%,79%,0.3);
     background-image: url(url);
+	margin-bottom: 40px;
 }
 
 .title h1 {
@@ -112,4 +113,18 @@ footer ul li a:hover {
 .copyright p {
 	margin-top: 15px;
 	font-family: 'Raleway', sans-serif;
+}
+
+
+.h2 {
+font-family: 'Raleway', sans-serif;
+	margin-bottom: 0px;
+}
+
+
+.row1 {
+	border-style: solid;
+	border-color: #7F142F;
+	margin-right: 300px;
+	padding: 20px;	
 }
