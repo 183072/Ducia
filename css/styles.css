@@ -115,16 +115,41 @@ footer ul li a:hover {
 	font-family: 'Raleway', sans-serif;
 }
 
+/* Xara's adjustments */
 
-.h2 {
-font-family: 'Raleway', sans-serif;
-	margin-bottom: 0px;
+.control-label {
+    font-family: Georgia;
+    font-weight: 500;
+    color: #7f142f;
+	margin-top: -23px;
+	margin-bottom: -40px;
+}
+
+.btn {
+	font-family: 'Raleway', sans-serif;
 }
 
 
-.row1 {
-	border-style: solid;
-	border-color: #7F142F;
-	margin-right: 300px;
-	padding: 20px;	
+@media screen{
+
+.form-control {
+	border: solid;
+	border-width: 0.5px;
+	border-color: #7F142F;	
+}
+.contact-info {
+margin-top: 40px;
+	
+}
+	
+	.pgtkm {
+		text-align: center;
+font-size: 12px;
+	}
+
+	.icons {
+		width: 60px;
+		margin-left: 28px;
+	}
+
 }
