@@ -63,6 +63,11 @@ nav {
     font-weight: 300;
 }
 
+.vision h3 {
+	font-family: Georgia;
+	text-align:  center;
+}
+
 /* Footer */
 footer .content {
     background-color: #7F142F;
