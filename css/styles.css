@@ -179,14 +179,16 @@ footer ul li a:hover {
 	font-family: 'Raleway', sans-serif;
 }
 
+.socialsinfo {
+	margin-bottom: -40px;
+}
 
+.h3form {
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+}
 @media screen{
 
-.form-control {
-	border: solid;
-	border-width: 0.5px;
-	border-color: #7F142F;	
-}
 .contact-info {
 margin-top: 40px;
 	
@@ -206,7 +208,7 @@ font-size: 12px;
 		
 	}
 	.control-label {
-		    font-family: Georgia;
+	font-family: Georgia;
     font-weight: 300;
     font-style: normal;
     color: #7f142f;
