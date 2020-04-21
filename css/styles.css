@@ -64,28 +64,29 @@ nav {
 }
 
 .vision h3 {
-	font-family: Georgia;
+	font-family: 'Raleway', sans-serif;
 	text-align:  center;
+	padding: 5px;
 }
 .vision-1 {
 	margin: auto;
 	align-content: center;
 	text-align: center;
-	border: 3px solid #7f142f;
+	border: 1px solid #7f142f;
 	padding: 10px 0;
 }
 .vision-2 {
 	margin: auto;
 	align-content: center;
 	text-align: center;
-	border: 3px solid #7f142f;
+	border: 1px solid #7f142f;
 	padding: 26px 0;
 }
 .vision-3 {
 	margin: auto;
 	align-content: center;
 	text-align: center;
-	border: 3px solid #7f142f;
+	border: 1px solid #7f142f;
 	padding: 28px 0;
 }
 
@@ -106,10 +107,6 @@ nav {
 .image-team {
 	align-content: center;
 	vertical-align: middle;
-}
-
-h3{
-	font-family:'Raleway', sans-serif;
 }
 
 /* Footer */
@@ -195,13 +192,13 @@ margin-top: 40px;
 }
 	
 	.pgtkm {
-		text-align: center;
+margin-left: 550px;
 font-size: 12px;
 	}
 
 	.icons {
 		width: 60px;
-		margin-left: auto;
+		margin-left: 55px;
 		margin-right: auto;
 		display: block;
 		margin-top: -10px;
@@ -214,6 +211,10 @@ font-size: 12px;
     color: #7f142f;
 	margin-top: -40px;
     margin-left: 20px;
+	}
+	
+	.h3 {
+		font-family: 'Raleway', sans-serif;
 	}
 }
 
