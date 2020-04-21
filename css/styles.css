@@ -67,6 +67,29 @@ nav {
 	font-family: Georgia;
 	text-align:  center;
 }
+.vision-1 {
+	margin: auto;
+	align-content: center;
+	text-align: center;
+	border: 3px solid #7f142f;
+	padding: 10px 0;
+}
+.vision-2 {
+	margin: auto;
+	align-content: center;
+	text-align: center;
+	border: 3px solid #7f142f;
+	padding: 26px 0;
+}
+.vision-3 {
+	margin: auto;
+	align-content: center;
+	text-align: center;
+	border: 3px solid #7f142f;
+	padding: 28px 0;
+}
+
+
 
 .carousel-caption h5{
 	align-content: center;
@@ -79,6 +102,12 @@ nav {
 	opacity: 03;
 	
 }
+
+.image-team {
+	align-content: center;
+	vertical-align: middle;
+}
+
 h3{
 	font-family:'Raleway', sans-serif;
 }
