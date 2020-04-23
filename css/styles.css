@@ -63,32 +63,17 @@ nav {
     font-weight: 300;
 }
 
-.vision h3 {
-	font-family: 'Raleway', sans-serif;
+
+
+.vision p{
+	align-content: center;
 	text-align:  center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
 	padding: 5px;
 }
-.vision-1 {
-	margin: auto;
-	align-content: center;
-	text-align: center;
-	border: 1px solid #7f142f;
-	padding: 10px 0;
-}
-.vision-2 {
-	margin: auto;
-	align-content: center;
-	text-align: center;
-	border: 1px solid #7f142f;
-	padding: 26px 0;
-}
-.vision-3 {
-	margin: auto;
-	align-content: center;
-	text-align: center;
-	border: 1px solid #7f142f;
-	padding: 28px 0;
-}
+
+
 
 
 
